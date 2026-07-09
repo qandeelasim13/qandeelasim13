@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Qandeel Asim</h1>
-<p align="center">AI / Computer Science Student | Machine Learning Enthusiast</p>
+<p align="center">AI  Student | Machine Learning Enthusiast</p>
 
 <p align="center">
   <a href="qandeelasim125@gmail.com">📧 Email</a> |
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 AI / Computer Science student
+- 🎓 AI  student
 - 🤖 Currently building a custom **Urdu OCR model** as part of the Code Saviours Summer Internship 2026
 - 🐍 Comfortable with **Python** and **Machine Learning** fundamentals
 - 📚 Currently learning: Deep Learning, Computer Vision, and OCR pipelines
